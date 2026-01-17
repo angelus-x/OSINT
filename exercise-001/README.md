@@ -70,7 +70,7 @@ Here is a topographic map of Kiffa, the blue is lower elevation levels, and it l
 So, my brain already linked the two together, but I’ve overlayed the topographic map with Google Earth so you can see how my brain worked. Fun isn’t it!
 
 
-![Overlay Image](images/overlay.mp4)
+![Overlay Image](images/overlay.gif)
 
 **Source:** I made this by combing Google Earth with topographic-map.com
 ---
