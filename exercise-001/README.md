@@ -13,7 +13,8 @@ Please identify the coordinates of where the photo was taken.”
 
 
 ![Tweet screenshot](images/tweet.png)
-## Image for Educational Purposes
+Image for Educational Purposes
+
 The tweet says picture was taken in Kiffa in the morning. Okay, let’s google Kiffa, it’s in Mauritania. I want to know more about Kiffa.  
 Let’s navigate to the Wikipedia page for Kiffa. So “the climate is Sahelian, with April to June as the hottest months and eighty-five percent of the low annual rainfall occurring from July to September.” Okay so desert, also found a snippet about a meteorite impact in 1970. Interesting, but not relevant to the challenge.  
 Onwards.
@@ -72,13 +73,15 @@ So, my brain already linked the two together, but I’ve overlayed the topograph
 
 ![Overlay Image](images/overlay.gif)
 
-**Source:** I made this by combing Google Earth with topographic-map.com
+**Source:** Google Earth and topographic-map.com
+
+*Click the image to see the animation.*
 ---
 
 
 
 
-## OK so now, narrowing down the target.
+Okay, so now, narrowing down the target.
 
 The image is of Kiffa.  
 Picture was taken in the morning.  
