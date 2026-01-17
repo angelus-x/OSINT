@@ -15,6 +15,7 @@ Please identify the coordinates of where the photo was taken.”
 ![Tweet screenshot](images/tweet.png)
 **SOURCE:** Image for Educational Purposes
 
+
 The tweet says picture was taken in Kiffa in the morning. Okay, let’s google Kiffa, it’s in Mauritania. I want to know more about Kiffa.  
 Let’s navigate to the Wikipedia page for Kiffa. So “the climate is Sahelian, with April to June as the hottest months and eighty-five percent of the low annual rainfall occurring from July to September.” Okay so desert, also found a snippet about a meteorite impact in 1970. Interesting, but not relevant to the challenge.  
 Onwards.
@@ -95,6 +96,7 @@ We are going to look here in more detail.
 As its’s a southern road, with the trees on either side of the road, and there is an area here where the elevation is lower.
 
 ![Zoomed location](images/zoomed-location.png)
+
 **SOURCE:** Google Earth  
 Yep, this looks promising.
 
