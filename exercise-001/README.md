@@ -10,10 +10,10 @@ Please identify the coordinates of where the photo was taken.”
 
 ---
 
-## Image for Educational Purposes
+
 
 ![Tweet screenshot](images/tweet.png)
-
+## Image for Educational Purposes
 The tweet says picture was taken in Kiffa in the morning. Okay, let’s google Kiffa, it’s in Mauritania. I want to know more about Kiffa.  
 Let’s navigate to the Wikipedia page for Kiffa. So “the climate is Sahelian, with April to June as the hottest months and eighty-five percent of the low annual rainfall occurring from July to September.” Okay so desert, also found a snippet about a meteorite impact in 1970. Interesting, but not relevant to the challenge.  
 Onwards.
@@ -30,10 +30,10 @@ Well, the tweet is dated 20 February 2013. I’m going to switch between these t
 Edit - Nope! I’m going to use the 2010 data, as the 2013 image pixelates when you zoom in.  
 Here we are looking at the overall image of Kiffa, and I’ve removed the labels and details from the map. This is the 2010 image data. Beautiful.
 
-**SOURCE:** Google Earth  
+
 
 ![Google Earth overview](images/google-earth-overview.png)
-
+**SOURCE:** Google Earth  
 Here we are looking at the overall image of Kiffa, and I’ve removed the labels and details from the map. This is the 2010 image data. Beautiful.
 
 ---
@@ -61,18 +61,17 @@ So, I’m going to follow both route A and B. Following the green trail and look
 
 ---
 
-**Source:** topographic-map.com  
+
 
 ![Topographic map](images/topographic-map.png)
-
+**Source:** topographic-map.com  
 Here is a topographic map of Kiffa, the blue is lower elevation levels, and it looks like the lower elevation match the water flow and the tree growth.
 
 So, my brain already linked the two together, but I’ve overlayed the topographic map with Google Earth so you can see how my brain worked. Fun isn’t it!
 
+
+![Overlay image](images/overlay.gif)
 **Source:** I made this by combing Google Earth with topographic-map.com
-
-![Overlay image](images/overlay.png)
-
 ---
 
 ## OK so now, narrowing down the target.
@@ -89,7 +88,7 @@ We are going to look here in more detail.
 As its’s a southern road, with the trees on either side of the road, and there is an area here where the elevation is lower.
 
 ![Zoomed location](images/zoomed-location.png)
-
+**SOURCE:** Google Earth  
 Yep, this looks promising.
 
 I look back on the original tweet image and realise something!  
@@ -97,15 +96,15 @@ Ahha! The road isn’t straight. It bends out to the right. It’s not a detail 
 
 That’s why it’s good to really look at an image and examine it in detail. This matches the satellite image we are looking at.
 
-**SOURCE:** Google Earth  
+
 
 ![Bend in road](images/bend-in-road.png)
-
+**SOURCE:** Google Earth  
 Yes! Now gather round, and let’s hyper focus in.  
 Now we can look at the buildings and the telegraph poles.
 
 ![Landmarks](images/landmarks.png)
-
+**SOURCE:** Twitter 
 Here we have landmarks, three telegraph poles, building on the left, the wall and the tree. This can be used to point the location the photograph was taken.
 
 The co-ordinates where the picture was taken is **16°36'34"N 11°23'52"W**.
