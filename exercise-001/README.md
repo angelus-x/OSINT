@@ -75,6 +75,9 @@ So, my brain already linked the two together, but I’ve overlayed the topograph
 **Source:** I made this by combing Google Earth with topographic-map.com
 ---
 
+
+
+
 ## OK so now, narrowing down the target.
 
 The image is of Kiffa.  
