@@ -61,11 +61,13 @@ With the location of Bulengo Camp confirmed, moving onwards to find the location
 <br>
 *Source: United Nations*
 <br>
+<br>
 Here we are interested in verifying the location of this long white tent. Notice the outline of possibly two hills/mountains, the line of trees behind the tent, the tent door open. The tent we need to locate is highlighted in green, note the topography on the horizon, and the line of trees behind the long tent.
 
 ![YouTube Tent Highlight](images/exercise-030_youtube_tent_highlight.png)
 <br>
 *Source: Google Earth*
+<br>
 <br>
 After capturing multiple screenshots and analysing many images, I think we have found the tent in an image. In the green highlighted box is highly likely the tent we are looking for, as the door shape matches our target tent. Topographical features also match. I have found the correct mountain in the background, and have highlighted it Google Earth below.
 
@@ -73,7 +75,7 @@ After capturing multiple screenshots and analysing many images, I think we have 
 <br>
 *Source: United Nations*
 <br>
-
+<br>
 ## Final Comparison and Coordinates
 
 In this screenshot, we can identify the slopes in the horizon, marked in pink and yellow, the tree line and I’ve highlighted in green, what I think is a likely candidate for the tent.
@@ -81,6 +83,7 @@ In this screenshot, we can identify the slopes in the horizon, marked in pink an
 ![Google Earth Slopes](images/exercise-030_google_earth_slopes.png)
 <br>
 *Source: Google Maps*
+<br>
 <br>
 Now I spent a while trying to pinpoint the exact location of the tent using trees. I got a bit discombobulated and decided to look back over all the evidence collected. The image uploaded to the UN Flickr account dated 04/04/2008, is the closest image in date to 24 October 2007. 
 
