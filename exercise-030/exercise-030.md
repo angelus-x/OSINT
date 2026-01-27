@@ -84,10 +84,15 @@ In this screenshot, we can identify the slopes in the horizon, marked in pink an
 <br>
 *Source: Google Maps*
 <br>
+<br>
 
 Now I spent a while trying to pinpoint the exact location of the tent using trees. I got a bit discombobulated and decided to look back over all the evidence collected. The image uploaded to the UN Flickr account dated 04/04/2008, is the closest image in date to 24 October 2007. 
 
 ![Flickr Tent](images/exercise-030_flickr_tent.png)
+<br>
+*Source: Marie Frechon / United Nations Flickr*
+<br>
+<br>
 
 Zoom in on the picture, and you can see the tent.
 
@@ -96,11 +101,13 @@ Zoom in on the picture, and you can see the tent.
 <br>
 *Source: Google Maps / Marie Frechon / United Nations Flickr*
 <br>
+<br>
 Here is a side-by-side comparison:
 ![Co-ordinates](images/exercise-030-coor.png)
 
 <br>
 *Source: Google Maps*
+<br>
 <br>
 Finally, co-ordinates for the tent location.
 
