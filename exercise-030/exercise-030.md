@@ -41,7 +41,7 @@ The image shows Bulengo camp in the background with Mugunga I and II in the fore
 
 <br>
 *Source: Marie Frechon / United Nations Flickr*
----
+<br>
 
 ## Google Earth Analysis
 
@@ -81,7 +81,12 @@ Now I spent a while trying to pinpoint the exact location of the tent using tree
 Here is a side-by-side comparison:
 
 ![Side by Side Comparison](images/exercise-030_side_by_side.png)
-
+<br>
+*Source: Google Maps / Marie Frechon / United Nations Flickr*
+<br>
 Finally, co-ordinates for the tent location.
 
 ![Co-ordinates](images/exercise-030-coor.png)
+<br>
+*Source: Google Maps*
+<br>
