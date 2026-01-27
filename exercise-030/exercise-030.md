@@ -1,4 +1,4 @@
-# Exercise 030
+# OSINT
 
 This investigation is based on OSINT Exercise 030 created by Sofia Santos.  
 Original exercise and briefing are available at:  
@@ -11,7 +11,7 @@ https://gralhix.com/list-of-osint-exercises/
 **Task:**  
 a) Find the exact location of the white tent seen in the video below at the 1:16 minute mark.
 
-Source video: [UNHCR YouTube](https://www.youtube.com/watch?v=BRoQva6wX24&t=204s)
+Source video: ![UNHCR YouTube](https://www.youtube.com/watch?v=BRoQva6wX24&t=204s)
 
 ---
 
