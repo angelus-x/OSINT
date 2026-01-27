@@ -58,7 +58,7 @@ Here we are interested in verifying the location of this long white tent. Notice
 
 ![YouTube Tent Highlight](images/exercise-030_youtube_tent_highlight.png)
 
-After capturing multiple screenshots and analysing many images, I think we have found the tent in an image. In the green highlighted box is highly likely the tent we are looking for, as the door shape matches our target tent. Topographical features also match. The mountain is highlighted in Google Earth below.
+After capturing multiple screenshots and analysing many images, I think we have found the tent in an image. In the green highlighted box is highly likely the tent we are looking for, as the door shape matches our target tent. Topographical features also match. I have found the correct mountain in the background, and have highlighted it Google Earth below.
 
 ![Google Earth Tent](images/exercise-030_google_earth_tent.png)
 
