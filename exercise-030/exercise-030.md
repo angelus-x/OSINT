@@ -20,7 +20,7 @@ Source video: ![UNHCR YouTube](https://www.youtube.com/watch?v=BRoQva6wX24&t=204
 Beginning the analysis, the video was uploaded to YouTube on 24th October 2007. The camp is in the Democratic Republic of Congo. The subtitles read "beleno Camp west of the GMA". The video shows what looks like a lake.
 
 ![Google Maps North Kivu](images/exercise-030_google_maps_north_kivu.png)
-
+*Source: Google Maps*
 A search on Google Maps for North Kivu reveals text, the North Kivu province boarders Lake Kivu in the Eastern DRC. Here on the lake, there is a city called Goma. So, GMA is likely Goma? Maybe.
 
 The subtitles in the video are "beleno Camp west of the GMA”. I listened to the video dialogue and it sounds like Belengo, not Beleno.
