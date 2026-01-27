@@ -22,6 +22,7 @@ Beginning the analysis, the video was uploaded to YouTube on 24th October 2007. 
 ![Google Maps North Kivu](images/exercise-030_google_maps_north_kivu.png)
 <br>
 *Source: Google Maps*
+<br>
 A search on Google Maps for North Kivu reveals text, the North Kivu province boarders Lake Kivu in the Eastern DRC. Here on the lake, there is a city called Goma. So, GMA is likely Goma? Maybe.
 
 The subtitles in the video are "beleno Camp west of the GMA”. I listened to the video dialogue and it sounds like Belengo, not Beleno.
@@ -38,6 +39,8 @@ The image shows Bulengo camp in the background with Mugunga I and II in the fore
 
 ![Bulengo Camp Flickr](images/exercise-030_bulengo_flickr.png)
 
+<br>
+*Source: Marie Frechon / United Nations Flickr*
 ---
 
 ## Google Earth Analysis
