@@ -48,7 +48,6 @@ The small lake, which looks like it’s in a crater, is Lac Vert, or in English,
 On Google Earth there is no available satellite data of Bulengo Camp from 2007. The closest date available is 2014. So, bear in mind tents move, structures may have been destroyed or constructed, trees grow and roads may have been built.
 
 ![Google Earth Bulengo](images/exercise-030_google_earth_bulengo.png)
-
 <br>
 *Source: Google Maps*
 <br>
@@ -65,8 +64,7 @@ With the location of Bulengo Camp confirmed, moving onwards to find the location
 Here we are interested in verifying the location of this long white tent. Notice the outline of possibly two hills/mountains, the line of trees behind the tent, the tent door open. The tent we need to locate is highlighted in green, note the topography on the horizon, and the line of trees behind the long tent.
 
 ![YouTube Tent Highlight](images/exercise-030_youtube_tent_highlight.png)
-<br>
-*Source: United Nations*
+*Source: Google Earth*
 <br>
 After capturing multiple screenshots and analysing many images, I think we have found the tent in an image. In the green highlighted box is highly likely the tent we are looking for, as the door shape matches our target tent. Topographical features also match. I have found the correct mountain in the background, and have highlighted it Google Earth below.
 
