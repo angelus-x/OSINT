@@ -44,8 +44,7 @@ The image shows Bulengo camp in the background with Mugunga I and II in the fore
 
 ## Google Earth Analysis
 
-The small lake, which looks like it’s in a crater, is Lac Vert, or in English, Green Lake. The horseshoe shaped island in the background is Tchegera Island.  
-On Google Earth there is no available satellite data of Bulengo Camp from 2007. The closest date available is 2014. So, bear in mind tents move, structures may have been destroyed or constructed, trees grow and roads may have been built.
+The small lake, which looks like it’s in a crater, is Lac Vert, or in English, Green Lake. The horseshoe shaped island in the background is Tchegera Island. On Google Earth there is no available satellite data of Bulengo Camp from 2007. The closest date available is 2014. So, bear in mind tents move, structures may have been destroyed or constructed, trees grow and roads may have been built.
 
 ![Google Earth Bulengo](images/exercise-030_google_earth_bulengo.png)
 <br>
@@ -55,7 +54,7 @@ On Google Earth there is no available satellite data of Bulengo Camp from 2007. 
 
 ## Tent Location Analysis
 
-With the location of Bulengo Camp confirmed, moving onwards to find the location of the tent from the image. Going back to the video to take screenshots. There are some long white structures here on this satellite image of Bulengo camp from 2014, but there is no evidence to indicate how long they have been here. Examining elements from the video may help to pinpoint some landmarks.
+With the location of Bulengo Camp confirmed, moving onwards to find the location of the tent from the image. Going back to the video to take screenshots. There are some long white structures on the satellite image of Bulengo camp from 2014, but there is no evidence to indicate how long they have existed. Examining elements from the video may help to pinpoint some landmarks.
 
 ![YouTube Screenshot Tent](images/exercise-030_youtube_screenshot_tent.png)
 <br>
