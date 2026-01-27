@@ -57,36 +57,47 @@ On Google Earth there is no available satellite data of Bulengo Camp from 2007. 
 With the location of Bulengo Camp confirmed, moving onwards to find the location of the tent from the image. Going back to the video to take screenshots. There are some long white structures here on this satellite image of Bulengo camp from 2014, but there is no evidence to indicate how long they have been here. Examining elements from the video may help to pinpoint some landmarks.
 
 ![YouTube Screenshot Tent](images/exercise-030_youtube_screenshot_tent.png)
-
+<br>
+*Source: United Nations*
+<br>
 Here we are interested in verifying the location of this long white tent. Notice the outline of possibly two hills/mountains, the line of trees behind the tent, the tent door open. The tent we need to locate is highlighted in green, note the topography on the horizon, and the line of trees behind the long tent.
 
 ![YouTube Tent Highlight](images/exercise-030_youtube_tent_highlight.png)
-
+<br>
+*Source: United Nations*
+<br>
 After capturing multiple screenshots and analysing many images, I think we have found the tent in an image. In the green highlighted box is highly likely the tent we are looking for, as the door shape matches our target tent. Topographical features also match. I have found the correct mountain in the background, and have highlighted it Google Earth below.
 
 ![Google Earth Tent](images/exercise-030_google_earth_tent.png)
+<br>
+*Source: Google Maps*
+<br>
 
----
 
 ## Final Comparison and Coordinates
 
 In this screenshot, we can identify the slopes in the horizon, marked in pink and yellow, the tree line and I’ve highlighted in green, what I think is a likely candidate for the tent.
 
 ![Google Earth Slopes](images/exercise-030_google_earth_slopes.png)
+<br>
+*Source: Google Maps*
+<br>
 
-Now I spent a while trying to pinpoint the exact location of the tent using trees. I got a bit discombobulated and decided to look back over all the evidence collected. The image uploaded to the UN Flickr account dated 04/04/2008, is the closest image in date to 24 October 2007. Zoom in on the picture, and you can see the tent.
+Now I spent a while trying to pinpoint the exact location of the tent using trees. I got a bit discombobulated and decided to look back over all the evidence collected. The image uploaded to the UN Flickr account dated 04/04/2008, is the closest image in date to 24 October 2007. 
 
 ![Flickr Tent](images/exercise-030_flickr_tent.png)
 
-Here is a side-by-side comparison:
+Zoom in on the picture, and you can see the tent.
+
 
 ![Side by Side Comparison](images/exercise-030_side_by_side.png)
 <br>
 *Source: Google Maps / Marie Frechon / United Nations Flickr*
 <br>
-Finally, co-ordinates for the tent location.
-
+Here is a side-by-side comparison:
 ![Co-ordinates](images/exercise-030-coor.png)
 <br>
 *Source: Google Maps*
 <br>
+Finally, co-ordinates for the tent location.
+
