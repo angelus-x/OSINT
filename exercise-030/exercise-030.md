@@ -38,7 +38,6 @@ Now looking for Bulengo refugee camp west of Goma via image search, I have found
 The image shows Bulengo camp in the background with Mugunga I and II in the foreground. Notice what looks like a crater lake, and Lake Kivu in the background, with small land masses of varying sizes, possibly islands.
 
 ![Bulengo Camp Flickr](images/exercise-030_bulengo_flickr.png)
-
 <br>
 *Source: Marie Frechon / United Nations Flickr*
 <br>
@@ -50,7 +49,10 @@ On Google Earth there is no available satellite data of Bulengo Camp from 2007. 
 
 ![Google Earth Bulengo](images/exercise-030_google_earth_bulengo.png)
 
----
+<br>
+*Source: Google Maps*
+<br>
+
 
 ## Tent Location Analysis
 
@@ -63,7 +65,6 @@ With the location of Bulengo Camp confirmed, moving onwards to find the location
 Here we are interested in verifying the location of this long white tent. Notice the outline of possibly two hills/mountains, the line of trees behind the tent, the tent door open. The tent we need to locate is highlighted in green, note the topography on the horizon, and the line of trees behind the long tent.
 
 ![YouTube Tent Highlight](images/exercise-030_youtube_tent_highlight.png)
-
 <br>
 *Source: United Nations*
 <br>
