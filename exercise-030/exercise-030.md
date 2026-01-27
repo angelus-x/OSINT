@@ -100,7 +100,7 @@ Zoom in on the picture, and you can see the tent.
 *Source: Google Maps / Marie Frechon / United Nations Flickr*
 <br>
 <br>
-Here is a side-by-side comparison:
+Here is a side-by-side comparison: The left picture is my estimation of where the tent was located.
 ![Co-ordinates](images/exercise-030-coor.png)
 <br>
 *Source: Google Maps*
