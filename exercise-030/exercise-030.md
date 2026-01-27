@@ -79,3 +79,5 @@ Here is a side-by-side comparison:
 ![Side by Side Comparison](images/exercise-030_side_by_side.png)
 
 Finally, co-ordinates for the tent location.
+
+![Co-ordinates](images/exercise-030-coor.png)
